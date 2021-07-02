@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Location 1",
+        "location": {
+            "lat": 35.81489258679243,
+            "lng": -78.86339294013642
+        },
+        "status": "active"
+    },
+    {
+        "name": "Location 2",
+        "location": {
+            "lat": 35.80598314464125,
+            "lng": -78.85995971263177
+        },
+        "status": "inactive"
+    },
+    {
+        "name": "Location 3",
+        "location": {
+            "lat": 35.78948411707594,
+            "lng": -78.84914504598966
+        },
+        "status": "active"
+    },
+    {
+        "name": "Location 4",
+        "location": {
+            "lat": 35.796028445161,
+            "lng": -78.8285456809582
+        },
+        "status": "inactive"
+    },
+    {
+        "name": "Location 5",
+        "location": {
+            "lat": 35.80312912759214,
+            "lng": -78.89678107762492
+        },
+        "status": "active"
+    }
+]
