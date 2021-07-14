@@ -43,5 +43,14 @@
             "lng": -78.89678107762492
         },
         "status": "active"
+    },
+    {
+        "id": 6,
+        "name": "Location 6",
+        "location": {
+            "lat": 35.7959911271121,
+            "lng":  -78.85860052240163
+        },
+        "status": "active"
     }
 ]
